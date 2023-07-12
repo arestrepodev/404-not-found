@@ -8,25 +8,30 @@
   maximum-scale=5"
     />
     <title>404 Not Found - @arestrepodev</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles/main.css">
   </head>
   <body>
    <main class="main">
     <header class="header">
-      <h2>404 not found</h2>
+      <h2 class="header-title">404 not found</h2>
     </header>
     <section class="content">
-      <article class="content-item">
-        <img class="content-image" src="./scarecrow.png" alt="Scarecrow" fetchpriority="high">
+      <article class="content-item content-image">
+        <img class="content-image" src="./scarecrow.png" alt="Scarecrow" fetchpriority="high" width="200px">
       </article>
-      <article class="content-item">
+      <article class="content-item content-text">
         <h1 class="content-title">
           I have bad news for you
         </h1>
         <p class="content-description">The page you are looking for might be removed or is temporarily unavailable</p>
-        <button class="btn">
-          Back to homepage
-        </button>
+        <div>
+          <a class="btn" href="#">
+            Back to homepage
+          </a>
+        </div>
       </article>
     </section>
     <footer class="footer">
