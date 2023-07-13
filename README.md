@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://stately-dango-2097f8.netlify.app">
       Demo
     </a>
     <span> | </span>
@@ -41,9 +41,13 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+[Demo](https://stately-dango-2097f8.netlify.app/)
 - What was your experience?
+The experience was great, I practice CSS layouts with grid and flex and how to use it to make a website responsive.
 - What have you learned/improved?
+I improved my CSS skills and how to use grid and flex to make a website responsive.
 - Your wisdom? :)
+I learned that I need to practice more CSS and how to use grid and flex to make a website responsive.
 
 ### Built With
 
